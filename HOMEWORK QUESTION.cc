@@ -1,5 +1,5 @@
-#Question 2
-#Suppose that nan=(n−3)an−1+nfor n>2 with a_0=a_1=a_2=0a  What is the value of a_{999}? 
+//Question 2
+//Suppose that nan=(n−3)an−1+nfor n>2 with a_0=a_1=a_2=0a  What is the value of a_{999}? 
 
 #include <algorithm>
 #include<vector> 
@@ -42,4 +42,5 @@ int main()
 
 
 
-#250
+//250 
+//from algorithms textbook
